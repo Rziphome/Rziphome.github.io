@@ -3,8 +3,7 @@ layout: post
 title: This will be R.zip Foundation
 date: 2018-06-30
 comments: true
-
-categories:
+categories: R.zip story
 
 ---
 
